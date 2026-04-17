@@ -1,0 +1,4 @@
+/home/queso/Escritorio/dev/actividad-6-13-git-worktree-varias-ramas-y-directorios-dannnnnnnnnnnnnnnnnnnnnnnnnnn  af87c3f [main]
+/home/queso/Escritorio/dev/wt-feature-a                                                                          c319272 [feature-a]
+
+Explicacion: Vemos el worktree principal (donde esta main) y un nuevo directorio ../wt-feature-a asociado a la rama feature-a, compartiendo el mismo .git pero con distintos working directories.

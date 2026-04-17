@@ -1,0 +1,7 @@
+git worktree add -b feature-b ../wt-feature-b main
+
+/home/queso/Escritorio/dev/actividad-6-13-git-worktree-varias-ramas-y-directorios-dannnnnnnnnnnnnnnnnnnnnnnnnnn  2c38ebe [main]
+/home/queso/Escritorio/dev/wt-feature-a                                                                          0328476 [feature-a]
+/home/queso/Escritorio/dev/wt-feature-b                                                                          06128e8 [feature-b]
+
+Diferencia: 'git branch' crea la rama pero no cambia tu working directory actual, mientras que 'git worktree add -b' crea la rama nueva y directamente la asocia a un nuevo directorio paralelo listo para trabajar libremente sin alterar el actual.

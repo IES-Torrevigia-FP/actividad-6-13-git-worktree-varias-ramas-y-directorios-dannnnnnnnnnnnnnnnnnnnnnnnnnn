@@ -1,0 +1,14 @@
+/home/queso/Escritorio/dev/actividad-6-13-git-worktree-varias-ramas-y-directorios-dannnnnnnnnnnnnnnnnnnnnnnnnnn  2c38ebe [main]
+/home/queso/Escritorio/dev/wt-feature-a                                                                          0328476 [feature-a]
+
+
+0328476 Amplía detalles de funcionalidad A
+2c38ebe Actualiza README en main
+c319272 Añade funcionalidad A
+af87c3f Commit inicial en main
+ec01610 add deadline
+deb1ad7 Initial commit
+
+Esquema:
+En ../wt-feature-a (rama feature-a) se añadió otro detalle de funcionalidad.
+En el directorio principal (rama main) se añadió un cambio independiente de forma simultánea, sin conflictos en el workspace.

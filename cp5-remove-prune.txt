@@ -1,0 +1,12 @@
+git worktree remove ../wt-feature-a
+
+--- Listado ANTES de eliminar ---
+/home/queso/Escritorio/dev/actividad-6-13-git-worktree-varias-ramas-y-directorios-dannnnnnnnnnnnnnnnnnnnnnnnnnn  2c38ebe [main]
+/home/queso/Escritorio/dev/wt-feature-a                                                                          0328476 [feature-a]
+/home/queso/Escritorio/dev/wt-feature-b                                                                          06128e8 [feature-b]
+
+--- Listado DESPUES de eliminar ---
+/home/queso/Escritorio/dev/actividad-6-13-git-worktree-varias-ramas-y-directorios-dannnnnnnnnnnnnnnnnnnnnnnnnnn  2c38ebe [main]
+/home/queso/Escritorio/dev/wt-feature-b                                                                          06128e8 [feature-b]
+
+Diferencia: 'remove' elimina activamente un directorio worktree y la referencia de forma directa. 'prune' es un mantenimiento de limpieza para quitar referencias desactualizadas (.git/worktrees) a directorios de worktrees que fueron borrados manualmente con 'rm -rf'.

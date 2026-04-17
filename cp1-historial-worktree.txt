@@ -5,3 +5,4 @@ deb1ad7 Initial commit
 
   feature-a
 * main
+Comandos: git log --oneline --all y git branch feature-a

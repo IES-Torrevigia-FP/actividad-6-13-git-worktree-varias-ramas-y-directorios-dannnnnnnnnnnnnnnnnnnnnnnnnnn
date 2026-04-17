@@ -5,3 +5,4 @@ git worktree add -b feature-b ../wt-feature-b main
 /home/queso/Escritorio/dev/wt-feature-b                                                                          06128e8 [feature-b]
 
 Diferencia: 'git branch' crea la rama pero no cambia tu working directory actual, mientras que 'git worktree add -b' crea la rama nueva y directamente la asocia a un nuevo directorio paralelo listo para trabajar libremente sin alterar el actual.
+Comando git worktree add -b feature-b wt-feature-b. Comando git worktree list. Diferencia con git branch y add -b

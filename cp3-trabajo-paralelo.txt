@@ -12,3 +12,4 @@ deb1ad7 Initial commit
 Esquema:
 En ../wt-feature-a (rama feature-a) se añadió otro detalle de funcionalidad.
 En el directorio principal (rama main) se añadió un cambio independiente de forma simultánea, sin conflictos en el workspace.
+Comando: git worktree list y tenemos ramas main y feature-a

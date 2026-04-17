@@ -1,0 +1,14 @@
+.github/
+tools/
+README.md
+actividad_6_013.md
+cp1-historial-worktree.txt
+cp2-worktree-list.txt
+cp3-trabajo-paralelo.txt
+cp4-feature-b-worktree.txt
+cp5-remove-prune.txt
+reflexion-6-13.md
+  workflows/
+    evaluacion.yml
+  ai_redactor.py
+  evaluar_repo.py

@@ -1,0 +1,148 @@
+{
+  "repo_default_branch": "main",
+  "required_files": [
+    "README.md",
+    "cp1-historial-worktree.txt",
+    "cp2-worktree-list.txt",
+    "cp3-trabajo-paralelo.txt",
+    "cp4-feature-b-worktree.txt",
+    "cp5-remove-prune.txt",
+    "reflexion-6-13.md"
+  ],
+  "missing_required": [],
+  "commits": {
+    "count": 5,
+    "items": [
+      {
+        "full": "c7b8eeae06a9dd973054ffc1739c7f8de4a3eca7",
+        "short": "c7b8eea",
+        "parents": [
+          "2c38ebed731825c005c75e830186530d9128668b"
+        ],
+        "author": "david",
+        "date": "2026-04-17 12:05:30 +0200",
+        "message": "Añadidos las evidencias y la reflexion final",
+        "score": 0.7
+      },
+      {
+        "full": "2c38ebed731825c005c75e830186530d9128668b",
+        "short": "2c38ebe",
+        "parents": [
+          "af87c3f91267d18f3fd5c3c2dfb92ba0da87fef8"
+        ],
+        "author": "david",
+        "date": "2026-04-17 12:04:45 +0200",
+        "message": "Actualiza README en main",
+        "score": 0.4
+      },
+      {
+        "full": "af87c3f91267d18f3fd5c3c2dfb92ba0da87fef8",
+        "short": "af87c3f",
+        "parents": [
+          "ec01610fab98e57679d2b058f3259cdcdb443bc8"
+        ],
+        "author": "david",
+        "date": "2026-04-17 12:04:17 +0200",
+        "message": "Commit inicial en main",
+        "score": 0.7
+      },
+      {
+        "full": "ec01610fab98e57679d2b058f3259cdcdb443bc8",
+        "short": "ec01610",
+        "parents": [
+          "deb1ad7931e8f0073cd8b46ef9d975a232e6febf"
+        ],
+        "author": "github-classroom[bot]",
+        "date": "2026-04-14 08:29:27 +0000",
+        "message": "add deadline",
+        "score": 1.0
+      },
+      {
+        "full": "deb1ad7931e8f0073cd8b46ef9d975a232e6febf",
+        "short": "deb1ad7",
+        "parents": [],
+        "author": "github-classroom[bot]",
+        "date": "2026-04-13 20:01:54 +0000",
+        "message": "Initial commit",
+        "score": 0.7
+      }
+    ],
+    "avg_msg_len": 23.2,
+    "quality": 0.7,
+    "merge_commit_count": 0
+  },
+  "worktree_checks": {
+    "cp1_historial_ramas": {
+      "ok": true,
+      "source": "cp1-historial-worktree.txt"
+    },
+    "cp2_worktree_feature_a": {
+      "ok": true,
+      "source": "cp2-worktree-list.txt"
+    },
+    "cp3_trabajo_paralelo": {
+      "ok": true,
+      "source": "cp3-trabajo-paralelo.txt"
+    },
+    "cp4_feature_b_add_b": {
+      "ok": true,
+      "source": "cp4-feature-b-worktree.txt"
+    },
+    "cp5_remove_prune": {
+      "ok": true,
+      "source": "cp5-remove-prune.txt"
+    },
+    "readme_final": {
+      "exists": true,
+      "minimum_content_ok": true
+    }
+  },
+  "readme_stats": {
+    "chars": 62,
+    "words": 9,
+    "headings": 1,
+    "images": 0,
+    "links": 0,
+    "code_fences": 0
+  },
+  "reflexion_stats": {
+    "chars": 2012,
+    "words": 295,
+    "headings": 0,
+    "images": 0,
+    "links": 0,
+    "code_fences": 0
+  },
+  "evidencias_encontradas": [
+    "cp1-historial-worktree.txt",
+    "cp2-worktree-list.txt",
+    "cp3-trabajo-paralelo.txt",
+    "cp4-feature-b-worktree.txt",
+    "cp5-remove-prune.txt",
+    "reflexion-6-13.md"
+  ],
+  "files_info": {
+    "total_files": 11,
+    "large_files": [],
+    "binary_files": []
+  },
+  "checks_no_puntuables": {
+    "estructura": {
+      "score_referencia": 2,
+      "max_referencia": 2,
+      "estado": "ok"
+    },
+    "min_commits": {
+      "esperado": 5,
+      "detectado": 5,
+      "ok": true
+    }
+  },
+  "scores": {
+    "worktree_tecnico (max_4)": 4,
+    "evidencias (max_3)": 3,
+    "reflexion (max_3)": 3,
+    "total": 10,
+    "sobre": 10
+  }
+}
